@@ -5,4 +5,4 @@ var boxHeight = thisLayer.sourceRectAtTime().height; // Height of textbox //
 
 // Offset anchor down from boxTop using half the height of the box //
 
-[value[0], boxTop + boxHeight ];﻿
+[value[0], boxTop + boxHeight];﻿
