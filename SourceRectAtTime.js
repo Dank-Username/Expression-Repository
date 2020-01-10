@@ -17,5 +17,3 @@ var l = s.sourceRectAtTime().left;
 var t = s.sourceRectAtTime().top;
 
 [w+l,h+t];
-
-// test change number 2 //
