@@ -5,6 +5,7 @@ freq = 2.0;
 decay = 10.0;
 n = 0;
 time_max = 4;
+
 if (numKeys > 0){
 n = nearestKey(time).index;
 if (key(n).time > time){
