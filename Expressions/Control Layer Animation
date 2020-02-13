@@ -1,0 +1,6 @@
+sourceLayer = thisComp.layer("Transition Control 2");
+sampleSize = [1,1];
+samplePoint = transform.position;
+colour= sourceLayer.sampleImage(samplePoint,sampleSize);
+x=colour[0]*100;
+[x,x]
